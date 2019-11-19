@@ -1,0 +1,52 @@
+{
+    "puppies" : [
+        {
+            "name" : "Puppy 1",
+            "picture" : "pic1"
+        },
+        {
+            "name" : "Puppy 2",
+            "picture" : "pic2"
+        },
+        {
+            "name" : "Puppy 3",
+            "picture" : "pic3"
+        },
+        {
+            "name" : "Puppy 4",
+            "picture" : "pic4"
+        },
+        {
+            "name" : "Puppy 5",
+            "picture" : "pic5"
+        },
+        {
+            "name" : "Puppy 6",
+            "picture" : "pic6"
+        },
+        {
+            "name" : "Puppy 7",
+            "picture" : "pic7"
+        },
+        {
+            "name" : "Puppy 8",
+            "picture" : "pic8"
+        },
+        {
+            "name" : "Puppy 9",
+            "picture" : "pic9"
+        },
+        {
+            "name" : "Puppy 10",
+            "picture" : "pic10"
+        },
+        {
+            "name" : "Puppy 11",
+            "picture" : "pic11"
+        },
+        {
+            "name" : "Puppy 12",
+            "picture" : "pic12"
+        }
+    ]
+}

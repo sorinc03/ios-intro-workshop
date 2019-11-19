@@ -15,6 +15,7 @@
 		26318D282383F3DC00CC30E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26318D262383F3DC00CC30E0 /* LaunchScreen.storyboard */; };
 		26318D332383F3DC00CC30E0 /* intro_to_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26318D322383F3DC00CC30E0 /* intro_to_iosTests.swift */; };
 		26318D3E2383F3DC00CC30E0 /* intro_to_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26318D3D2383F3DC00CC30E0 /* intro_to_iosUITests.swift */; };
+		26318D5C2383FF1200CC30E0 /* puppies.json in Resources */ = {isa = PBXBuildFile; fileRef = 26318D5B2383FF1200CC30E0 /* puppies.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		26318D392383F3DC00CC30E0 /* intro-to-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "intro-to-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		26318D3D2383F3DC00CC30E0 /* intro_to_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intro_to_iosUITests.swift; sourceTree = "<group>"; };
 		26318D3F2383F3DC00CC30E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26318D5B2383FF1200CC30E0 /* puppies.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = puppies.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				26318D242383F3DC00CC30E0 /* Assets.xcassets */,
 				26318D262383F3DC00CC30E0 /* LaunchScreen.storyboard */,
 				26318D292383F3DC00CC30E0 /* Info.plist */,
+				26318D5A2383FEF400CC30E0 /* Resources */,
 			);
 			path = "intro-to-ios";
 			sourceTree = "<group>";
@@ -126,6 +129,14 @@
 				26318D3F2383F3DC00CC30E0 /* Info.plist */,
 			);
 			path = "intro-to-iosUITests";
+			sourceTree = "<group>";
+		};
+		26318D5A2383FEF400CC30E0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				26318D5B2383FF1200CC30E0 /* puppies.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,6 +245,7 @@
 			files = (
 				26318D282383F3DC00CC30E0 /* LaunchScreen.storyboard in Resources */,
 				26318D252383F3DC00CC30E0 /* Assets.xcassets in Resources */,
+				26318D5C2383FF1200CC30E0 /* puppies.json in Resources */,
 				26318D232383F3DB00CC30E0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
