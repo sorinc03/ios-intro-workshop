@@ -16,6 +16,7 @@
 		26318D332383F3DC00CC30E0 /* intro_to_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26318D322383F3DC00CC30E0 /* intro_to_iosTests.swift */; };
 		26318D3E2383F3DC00CC30E0 /* intro_to_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26318D3D2383F3DC00CC30E0 /* intro_to_iosUITests.swift */; };
 		26318D5C2383FF1200CC30E0 /* puppies.json in Resources */ = {isa = PBXBuildFile; fileRef = 26318D5B2383FF1200CC30E0 /* puppies.json */; };
+		26E9251F23854C1C00DD30E3 /* Puppies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E9251E23854C1C00DD30E3 /* Puppies.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		26318D3D2383F3DC00CC30E0 /* intro_to_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intro_to_iosUITests.swift; sourceTree = "<group>"; };
 		26318D3F2383F3DC00CC30E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26318D5B2383FF1200CC30E0 /* puppies.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = puppies.json; sourceTree = "<group>"; };
+		26E9251E23854C1C00DD30E3 /* Puppies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Puppies.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				26318D212383F3DB00CC30E0 /* Main.storyboard */,
 				26318D242383F3DC00CC30E0 /* Assets.xcassets */,
 				26318D262383F3DC00CC30E0 /* LaunchScreen.storyboard */,
+				26E9251E23854C1C00DD30E3 /* Puppies.swift */,
 				26318D292383F3DC00CC30E0 /* Info.plist */,
 				26318D5A2383FEF400CC30E0 /* Resources */,
 			);
@@ -273,6 +276,7 @@
 			files = (
 				26318D202383F3DB00CC30E0 /* ViewController.swift in Sources */,
 				26318D1C2383F3DB00CC30E0 /* AppDelegate.swift in Sources */,
+				26E9251F23854C1C00DD30E3 /* Puppies.swift in Sources */,
 				26318D1E2383F3DB00CC30E0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
