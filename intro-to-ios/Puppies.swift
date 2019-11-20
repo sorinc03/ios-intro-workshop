@@ -12,7 +12,7 @@ struct Puppy {
 
 }
 
-struct Puppies {
+struct PuppyResponse {
 
 }
 
